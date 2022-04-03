@@ -1,0 +1,1 @@
+printf("The number is %d\n", number);
